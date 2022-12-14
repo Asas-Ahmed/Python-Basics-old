@@ -1,2 +1,3 @@
 # Python-Basics
-Included Python projects (Basic Concepts, Strings, Variables, Control Flow, Lists &amp; Functions)
+I created this repository for personal revision but maybe you can learn from it!
+I added python scripts with notes (*.py , *.txt)

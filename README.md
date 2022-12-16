@@ -8,8 +8,11 @@ Still Working on it...
 ## 1- Basic Concepts
 
 &emsp;&emsp;<font size = "4">[1.1- About Python](/1-%20Basic%20Concepts/1.1-%20About%20Python.md)</font>
+
 &emsp;&emsp;<font size = "4">[1.2- Simple Operations](/1-%20Basic%20Concepts/1.2-%20Simple%20Operation.md)</font>
+
 &emsp;&emsp;<font size = "4">[1.3- Data Types](/1-%20Basic%20Concepts/1.3%20-%20Data%20Types.md)</font>
+
 &emsp;&emsp;<font size = "4">[1.4- Mathematical Operations](/1-%20Basic%20Concepts/1.4%20-%20Mathematical%20Operations.md)</font>
 
 ## 2- Strings

@@ -34,3 +34,5 @@ Still Working on it...
 &emsp;&emsp;<font size = "4">[3.4- Working with Input](/3%20-%20Variables/3.4%20-%20Working%20with%20Input.md)</font>
 
 &emsp;&emsp;<font size = "4">[3.5- In-Place Operators](/3%20-%20Variables/3.5%20-%20In-Place%20Operators.md)</font>
+
+&emsp;&emsp;<font size = "4">[3.5- In-Place Operators](/4-%20Control%20Flow/4.1-%20Booleans%20%26%20Comparisons.md)</font>

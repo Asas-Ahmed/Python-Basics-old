@@ -24,4 +24,4 @@ Still Working on it...
 &emsp;&emsp;<font size = "4">[3.2- Working with Variables](/3%20-%20Variables/3.2%20-%20Working%20with%20Variables.md)</font>
 &emsp;&emsp;<font size = "4">[3.3- Taking User Input](/3%20-%20Variables/3.3%20-%20Taking%20User%20Input.md)</font>
 &emsp;&emsp;<font size = "4">[3.4- Working with Input](/3%20-%20Variables/3.4%20-%20Working%20with%20Input.md)</font>
-&emsp;&emsp;<font size = "4">[3.4- Working with Input](/3%20-%20Variables/3.5%20-%20In-Place%20Operators.md)</font>
+&emsp;&emsp;<font size = "4">[3.5- In-Place Operators](/3%20-%20Variables/3.5%20-%20In-Place%20Operators.md)</font>

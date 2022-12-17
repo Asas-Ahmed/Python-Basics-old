@@ -42,3 +42,5 @@ Still Working on it...
 &emsp;&emsp;<font size = "4">[4.2- if Statements](/4-%20Control%20Flow/4.2-%20if%20Statements.md)</font>
 
 &emsp;&emsp;<font size = "4">[4.3- else Statements](/4-%20Control%20Flow/4.3-%20else%20Statements.md)</font>
+
+&emsp;&emsp;<font size = "4">[4.4- Boolean Logic](/4-%20Control%20Flow/4.4-%20Boolean%20Logic.md)</font>

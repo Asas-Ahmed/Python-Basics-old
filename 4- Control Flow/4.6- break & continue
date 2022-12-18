@@ -1,0 +1,50 @@
+# break
+To end a while loop prematurely, we can use a break statement.
+
+For example, we can break an infinite loop if some condition is met:
+
+```python
+i = 0
+while True:
+    print(i)
+    i = i + 1
+    if i >= 5:
+        print("Breaking")
+        break
+
+print("Finished")
+```
+```
+0
+1
+2
+3
+4
+Breaking
+Finished
+```
+
+An infinite while loop can be used to continuously take user input. 
+
+For example, you are making a calculator and need to take numbers from the user to add together and stop when the user enters **"stop"**
+
+In this case, the **break** statement can be used to end the infinite loop when the user input equals "stop"
+
+> Using the break statement outside of a loop causes an error
+
+# continue
+Unlike **break, continue** jumps back to the top of the loop, rather than stopping it. Basically, the **continue** statement stops the current iteration and continues with the next one.
+
+```python
+i = 0
+while i<5:
+    i += 1
+    if i == 5:
+        print("Skipping 3")
+        continue
+print(i)
+```
+```
+Skipping 3
+5
+```

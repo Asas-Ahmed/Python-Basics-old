@@ -57,3 +57,5 @@ Still Working on it...
 &emsp;&emsp;<font size = "4">[5.2- List Operations](/5-%20Lists/5.2-%20List%20Operations.md)</font>
 
 &emsp;&emsp;<font size = "4">[5.3- for Loops](/5-%20Lists/5.3-%20for%20Loops.md)</font>
+
+&emsp;&emsp;<font size = "4">[5.3- for Loops](/5-%20Lists/5.4-%20Ranges.md)</font>

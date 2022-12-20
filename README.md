@@ -61,3 +61,7 @@ Still Working on it...
 &emsp;&emsp;<font size = "4">[5.4- Ranges](/5-%20Lists/5.4-%20Ranges.md)</font>
 
 &emsp;&emsp;<font size = "4">[5.5- List Slices](/5-%20Lists/5.5-%20List%20Slices.md)</font>
+
+## 6- Functions
+
+&emsp;&emsp;<font size = "4">[6.1- Functions](/6-%20Functions/6.1-%20Functions.md)</font>

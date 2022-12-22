@@ -71,3 +71,5 @@ Still Working on it...
 &emsp;&emsp;<font size = "4">[6.3- String Functions](/6-%20Functions/6.3-%20String%20Functions.md)</font>
 
 &emsp;&emsp;<font size = "4">[6.4- Making Your Own Functions](/6-%20Functions/6.4-%20Making%20Your%20Own%20Functions.md)</font>
+
+&emsp;&emsp;<font size = "4">[6.5- Function Arguments](/6-%20Functions/6.5-%20Function%20Arguments.md)</font>

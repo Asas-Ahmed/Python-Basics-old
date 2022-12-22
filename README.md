@@ -67,3 +67,5 @@ Still Working on it...
 &emsp;&emsp;<font size = "4">[6.1- Functions](/6-%20Functions/6.1-%20Functions.md)</font>
 
 &emsp;&emsp;<font size = "4">[6.2- List Functions](/6-%20Functions/6.2-%20List%20Functions.md)</font>
+
+&emsp;&emsp;<font size = "4">[6.3- String Functions](/6-%20Functions/6.3-%20String%20Functions.md)</font>

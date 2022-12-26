@@ -75,3 +75,5 @@ Still Working on it...
 &emsp;&emsp;<font size = "4">[6.5- Function Arguments](/6-%20Functions/6.5-%20Function%20Arguments.md)</font>
 
 &emsp;&emsp;<font size = "4">[6.6- Returning from Functions](/6-%20Functions/6.6-%20Returning%20from%20Functions.md)</font>
+
+&emsp;&emsp;<font size = "4">[6.7- Comments & Docstrings](/6-%20Functions/6.7-%20Comments%20%26%20Docstrings.md)</font>
